@@ -1,9 +1,9 @@
-title: Streamdata Gallery
-url: tyk.api.streamdata.gallery
+title: Streamdata Gallery Tyk
+url: tyk.streamdata.gallery
 tag: Tyk
 markdown: kramdown
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", ".DS_Store"]
-github_user: streamdata-gallery-organizations
+github_user: streamdata-gallery
 github_repo: tyk
 github_branch: master
 collections:
