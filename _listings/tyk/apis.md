@@ -7,8 +7,8 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/11408-tyk.
 x-kinRank: "9"
 x-alexaRank: "489034"
 tags: Tyk
-created: "2018-05-22"
-modified: "2018-05-22"
+created: "2018-06-20"
+modified: "2018-06-20"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/tyk/master/_listings/tyk/apis.md
 specificationVersion: "0.14"
 apis:
